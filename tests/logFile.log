@@ -19,3 +19,5 @@
 2021-02-19 17:18:17,900 :INFO :test_validateFormElements :text field name is correct
 2021-02-19 17:29:31,132 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
 2021-02-19 17:29:31,206 :INFO :test_validateFormElements :text field name is correct
+2021-02-23 11:26:01,033 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-23 11:26:01,105 :INFO :test_validateFormElements :text field name is correct
