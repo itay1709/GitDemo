@@ -1,0 +1,21 @@
+2021-02-12 17:41:39,618 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-12 17:41:39,701 :INFO :test_validateFormElements :text field name is correct
+2021-02-13 18:57:18,875 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-13 19:13:10,823 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-13 19:13:10,954 :INFO :test_validateFormElements :text field name is correct
+2021-02-14 17:38:01,662 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-14 17:39:10,209 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-14 17:47:32,277 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-14 17:50:34,883 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-16 14:44:26,267 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-16 14:44:26,335 :INFO :test_validateFormElements :text field name is correct
+2021-02-19 15:21:27,198 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-19 15:21:27,563 :INFO :test_validateFormElements :text field name is correct
+2021-02-19 17:16:51,138 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-19 17:16:51,223 :INFO :test_validateFormElements :text field name is correct
+2021-02-19 17:17:17,773 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-19 17:17:17,840 :INFO :test_validateFormElements :text field name is correct
+2021-02-19 17:18:17,823 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-19 17:18:17,900 :INFO :test_validateFormElements :text field name is correct
+2021-02-19 17:29:31,132 :INFO :test_validateTopBarElements :the text from shop button from the app was: Shop
+2021-02-19 17:29:31,206 :INFO :test_validateFormElements :text field name is correct
