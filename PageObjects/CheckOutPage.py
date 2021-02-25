@@ -18,3 +18,5 @@ class CheckOutPage:
     def checkOutBtnE(self):
         return self.driver.find_element(*CheckOutPage.checkOutBtn)
 
+    #end!
+
